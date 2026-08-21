@@ -1,4 +1,4 @@
-# Retrosmart Classic Cursor Theme
+# retrosmart classic cursor theme
 
 The classic xcursor theme for modern Linux desktop environments.
 
