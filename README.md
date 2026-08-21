@@ -1,6 +1,7 @@
 # retrosmart classic cursor theme
 
 The classic xcursor theme for modern Linux desktop environments.
+
 Inspired from: https://github.com/mdomlop/retrosmart-x11-cursors and https://github.com/ccxvii/cursorfont.git 
 
 ## Install
